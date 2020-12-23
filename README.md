@@ -1,2 +1,2 @@
 # mycoolydudelywebsite
-ADD /websitehtml/website.html
+ADD- /websitehtml/website.html, to the url
